@@ -1098,6 +1098,15 @@ namespace Microsoft.CodeAnalysis.CSharp {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Split if statement.
+        /// </summary>
+        internal static string Split_if {
+            get {
+                return ResourceManager.GetString("Split_if", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to struct.
         /// </summary>
         internal static string struct_ {

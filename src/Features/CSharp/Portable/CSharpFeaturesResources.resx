@@ -569,4 +569,7 @@
   <data name="Remove_unused_variables" xml:space="preserve">
     <value>Remove unused variables</value>
   </data>
+  <data name="Split_if" xml:space="preserve">
+    <value>Split if statement</value>
+  </data>
 </root>
